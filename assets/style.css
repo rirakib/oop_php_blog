@@ -1,0 +1,21 @@
+a{
+    text-decoration: none !important;
+}
+.nav-link{
+    color: #fff;
+    font-weight: bold;
+}
+.header{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(240, 241, 243, 0.836);
+}
+.header h3{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.footer_title{
+    text-align: center;
+}
